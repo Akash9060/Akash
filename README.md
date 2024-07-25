@@ -1,2 +1,2 @@
 # Akash
-Demo session
+Demo session on GITHUB
